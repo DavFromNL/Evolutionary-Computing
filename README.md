@@ -2,7 +2,9 @@
 
 ## Game of Life
 Goal was to implement Conway's Game of Life
+
 https://playgameoflife.com/
+
 A simplistic representation of an ecosystem where dots will either die or reproduce depending on their neighbours.
 
 ## N Queen Problem
